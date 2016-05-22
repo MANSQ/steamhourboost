@@ -8,6 +8,13 @@ POSSIBLE_GAMES = [
   {name: 'CS Source', value: '240', checked: true}
   {name: 'CS GO', value: '730', checked: true}
   {name: 'Dota 2', value: '570'}
+  {name: 'Garry's Mod', value: '4000', checked: true}
+  {name: 'PAYDAY2', value: '218620', checked: true}
+  {name: 'Terraria', value: '105600', checked: true}
+  {name: 'Saints Row IV', value: '206420', checked: true}
+  {name: 'Arma2', value: '33900', checked: true}
+  {name: 'Arma2: OA', value: '33930', checked: true}
+  
 ]
 
 account = null
